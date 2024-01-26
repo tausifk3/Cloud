@@ -1,0 +1,2 @@
+# Cloud
+bootstrap EC2
